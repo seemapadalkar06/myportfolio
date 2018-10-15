@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head>
+
+<title>Saakhi Web App Solutions|Website Development|Apps Development|Graphic Design|SEO|Digital Marketing|ERP Software Development|Content Writing ::</title>
+<link rel="shortcut icon" type="image/icon" href="images/favicon.ico"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="saakhi,Saakhi,website designing,andriod applications,graphic design,seo service,digital marketing,saakhi web app ,saakhi web app solutions,web solutions,application development,erp software development,saakhi web,web,quick contact,solutions pvt ltd,software development" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- bootstarp-css -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<!--// bootstarp-css -->
+<!-- css -->
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<!--// css -->
+<!--fonts-->
+<link href='http://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+<!--/fonts-->
+<!--js-->
+<script src="js/jquery.min.js"></script>
+<!--/js-->
+</head>
+<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=83986881"></script>
+
+<body>
+
+<div id="home" class="header">
+	<div class="container">
+		<div class="header-info">
+			<div class="header-info-left">
+				<div class="logo">
+					<a href="#home"><img src="images/Saakhi logo Option 3.jpg" class="img-responsive" alt=""/></a>
+				</div>
+			</div>
+						<div class="header-info-right">
+							<div class="header cbp-spmenu-push">
+								<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
+									<h3>MENU</h3>
+									<a class="scroll" href="#home">Home</a>
+									<a class="scroll" href="#about">About</a>
+									<a class="scroll" href="#portfolio">Portfolio</a>
+									<a class="scroll" href="#team">Team</a>
+									<!--<a class="scroll" href="#price">price</a>-->
+									<a class="scroll" href="#Contact">Contact</a>
+								</nav>
+																<!--script-nav -->	
+			<script>
+					$("span.menu").click(function(){
+						$("ul.navigatoin").slideToggle("300" , function(){
+						});
+					});
+					</script>
+					<script type="text/javascript">
+							jQuery(document).ready(function($) {
+								$(".scroll").click(function(event){		
+									event.preventDefault();
+									$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+								});
+							});
+							</script>
+						<div class="clearfix"> </div>
+					<!-- /script-nav -->
+
+									<div class="main">
+										<section class="buttonset">
+											<button id="showRightPush">MENU</button>
+										</section>
+									</div>
+									<!-- Classie - class helper functions by @desandro https://github.com/desandro/classie -->
+									<script src="js/classie.js"></script>
+									<script>
+										var	menuRight = document.getElementById( 'cbp-spmenu-s2' ),
+											showRightPush = document.getElementById( 'showRightPush' ),
+											body = document.body;
+							
+										showRightPush.onclick = function() {
+											classie.toggle( this, 'active' );
+											classie.toggle( body, 'cbp-spmenu-push-toleft' );
+											classie.toggle( menuRight, 'cbp-spmenu-open' );
+											disableOther( 'showRightPush' );
+										};
+							
+									</script>
+			
+							</div>
+	
+						</div>
+									<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--header-banner-->
+<div class="header-banner">
+	<div class="container">
+		<div class="header-banner-info">
+			<h1>We Provide </h1>
+			<p>Creative, Modern And Simple Design Cutting Edge Services</p>
+		</div>
+		<a href="#Contact" class="more">Quick Contact</a>
+	</div>
+</div>
+
+<!--/header-banner-->
+<!--content-start-here-->
+<!--introducing-->
+<div class="introducing">
+	<div class="container">
+		<div class="introducing-info">
+			<h2>Saakhi Web App Solutions</h2>
+			
+				<h3>WE MAKE YOUR IDEAS</h3>
+		</div>
+	</div>
+</div>
+<div class="introducing-bottom">
+	<div class="container">
+		<p>Saakhi Web App Solutions offers an array of software development services such as web design,application development,graphic design,digital marketing,ERP software development to meet client’s needs. We have worked with people and organizations of varying size and industries, retail, consultancy, manufacturing, beauty and spa, education, healthcare/medical, law, retail, and IT.</p>
+	</div>
+</div>
+<!--/introducing-->
+<!-- about -->
+<div id="about" class="about">
+	<div class="container">
+		<div class="about-grids">
+			<div class="col-md-6 about-grid-left graphic">
+				<div class="about-img"></div>
+				<div class="about-right-info">
+					<h3>Graphic Design</h3>
+					<p>We provide the graphic design works such as Logo design,Banner works.Flyer design,Brochure design.
+					</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="col-md-6 about-grid-right">
+				<div class="about-img about-right-img"></div>
+				<div class="about-right-info about-right-right">
+					<h3>ERP Software Development</h3>
+					<p>We develop ERP Softwares .
+					</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="clearfix"> </div>
+			<div class="col-md-6 about-grid-left graphic">
+				<div class="about-img about-left-bottom"></div>
+				<div class="about-right-info">
+					<h3>Website Designing and SEO Service</h3>
+					<p>We develop dynamic and static website development in latest trendy designs.
+					</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="col-md-6 about-grid-right">
+				<div class="about-img about-right-bottom"></div>
+				<div class="about-right-info about-right-right">
+					<h3>Application Development</h3>
+					<p>We develop Andriod and IOS Applications.
+					</p>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!-- slid -->
+<!---->
+<script src="js/jquery.min.js"> </script>
+<script src="js/responsiveslides.min.js"></script>
+ <script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+      $("#slider2").responsiveSlides({
+        auto: false,
+        pager: true,
+        speed: 300,
+        namespace: "callbacks",
+      });
+    });
+  </script>
+ <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+<div class="portfolio">
+	 <div id="portfolio" class="container">
+			<div class="portfolio-heading">
+				<h3>OUR PORTFOLIO</h3>
+			</div>
+		  <div class="slider">
+				<ul class="rslides" id="slider2">
+				  <li>
+					 <div class="works main">						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.leisurehomes.co.in/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/a2.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://networkpouch.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/a3.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.lovecakesonline.co.uk/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+							    <img src="images/a4.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.bhagathmedia.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/a7.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.evugllp.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/evugllp.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://kukkisindiancuisine.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/kukkis.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.indiansstargrill.us/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/indiansstargrill.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/kukkislogo.png" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/kukkislogo.png" alt="">
+						  </div>
+						 <div class="clearfix"></div>
+					  </div>				
+				  </li>
+				 <li>
+					 <div class="works main">						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/1 (4).jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/1 (4).jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/Asian Cremation usa logo.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/Asian Cremation usa logo.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/KR logo - Copy.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+							    <img src="images/KR logo - Copy.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/om-sir-logistics_V009_1 (1).jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/om-sir-logistics_V009_1 (1).jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/rapp drilling supply co inc logo.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/rapp drilling supply co inc logo.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/logo (4).png" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/logo (4).png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/kukki giftcardfront.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/kukki giftcardfront.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/kukki giftcardback.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/kukki giftcardback.jpg" alt="">
+						  </div>
+						 <div class="clearfix"></div>
+					  </div>				
+				  </li>
+				 <li>
+					 <div class="works main">						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://hospibuz.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/hospibuz.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://hospihr.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/hospihr.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://hospilane.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+							    <img src="images/hospilane.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.bandb-solutions.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/bandb.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.prakashpatil.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/pp.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="https://zahrart.biddi.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/zahrart.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.mmt-institute.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/mmt.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://shalimarsunnyvalerestaurant.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/shalimar.png" alt="">
+						  </div>
+						 <div class="clearfix"></div>
+					  </div>				
+				  </li>
+				  <li>
+					 <div class="works main">						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.microsettools.co.uk/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/micro.png" alt="">
+						  </div>
+						  
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/logo.png" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"></span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/logo.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.omsrilogistics.co.in/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo"> <span class="rollover1"> </span><span class="rollover2"> </span></a> </p></div>     
+								<img src="images/omsri.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.ladyonlive.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+							    <img src="images/ladyonlive.png" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/muscat-tower.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/muscat-tower.jpg" alt="">
+						  </div>
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.predictionsforsuccess.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/pre.png" alt="">
+						  </div>
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://wireoid.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/wire.png" alt="">
+						  </div>
+					
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="images/vqs-jpeg.jpg" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/vqs-jpeg.jpg" alt="">
+						  </div>
+						  
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.andariya.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/andariya.png" alt="">
+						  </div>
+						  
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://muscattower.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/muscattowerscreenshot.png" alt="">
+						  </div>
+						  
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.mymarshmallow.in/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/marshmallowscreenshot.png" alt="">
+						  </div>
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://www.consultvqs.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/vqsscreenshot.png" alt="">
+						  </div>
+						   <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://m-hub.co/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/m-hubscreenshot.png" alt="">
+						  </div>
+						  
+						  <div class="gallery-box">
+								<div id="nivo-lightbox-demo"> <p> <a href="http://wireoid.com/" data-lightbox-gallery="gallery1" id="nivo-lightbox-demo">  <span class="rollover1"> </span></a> </p></div>     
+								<img src="images/wirelogo.png" alt="">
+						  </div>
+						  
+						  
+						  
+						  
+						 <div class="clearfix"></div>
+					  </div>				
+				  </li>
+				</ul>
+				   <script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
+				<script type="text/javascript">
+				$(document).ready(function(){
+				    $('#nivo-lightbox-demo a').nivoLightbox({ effect: 'fade' });
+				});
+				</script>
+		  </div>
+	 </div>
+</div>
+<!---->
+
+<!-- /slid -->
+<!--portfolio-->
+<div id="team" class="services-bottom">
+		<div class="services-bottom-info">
+			<h3>OUR TEAM</h3>
+		</div>
+		<div class="container">
+			<div class="services-top">
+				<!--<p>Lorem ipsum dolor sit amet, cu mea brute causae vivendum, qui graeci facete copiosae ad. Verear albucius 
+					suscipiantur ad cum, no ornatus recusabo pertinax est, ne quodsi aeterno sententiae eum. 
+					Nam in elaboraret comprehensam concludaturque. 
+</p>-->
+			</div>
+	</div>
+</div>
+<div class="elvis-grids">
+	<div class="container">
+		<div class="elvis-grids-info">
+			<div class="col-md-4 elvis-grid">
+				<img src="images/b1.jpg" class="img-responsive" alt=""/>
+				<div class="caption">
+					<h3>Akhil .V. Rajagopal</h3>
+					<span>Managing Director/Co-Founder </span>
+				</div>
+			</div>
+			<div class="col-md-4 elvis-grid">
+				<img src="images/b2.jpg" class="img-responsive" alt=""/>
+				<div class="caption">
+					<h3>Vijayarani .P</h3>
+					<span>Director/Co-Founder </span>
+				</div>
+			</div>
+			<div class="col-md-4 elvis-grid">
+				<img src="images/b3.jpg" class="img-responsive" alt=""/>
+				<div class="caption">
+					<h3>Sujeesh</h3>
+					<span>Project Manager </span>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!--/portfolio-->
+<!--skills-->
+<div class="skills">
+	<div class="container">
+		<div class="skills-heading">
+			<h3>OUR SKILLS</h3>
+		</div>
+		<div class="skills-info">
+			<div id="canvas">
+							<div class="row skill-grids text-center">
+									<div class="col-md-3">	
+										<div class="skill-grid">
+											<!--<div class="circle" id="circles-1"> </div>-->
+												<h5 class="web">PHP</h5>
+										 </div>								  
+									</div>
+									<div class="col-md-3">	
+										<div class="skill-grid">
+											<!--<div class="circle" id="circles-2"> </div>-->
+												<h5 class="web">.NET</h5>
+										 </div>								  
+									</div>
+									<div class="col-md-3">	
+										<div class="skill-grid">
+											<!--<div class="circle" id="circles-3"> </div>-->
+												<h5 class="web">JAVA</h5>
+										 </div>								  
+									</div>
+									<div class="col-md-3">	
+										<div class="skill-grid">
+											<div class="circle" id="circles-4"> </div>
+												<h5 class="web">Adobe</h5>
+										 </div>								  
+									</div>
+									<div class="clearfix"> </div>
+					          </div>
+									  <script type="text/javascript" src="js/circles.js"></script>
+									 <script>
+										var colors = [
+												['#FFFFFF', '#202835'], ['#FFFFFF', '#202835'], ['#FFFFFF', '#202835'], ['#FFFFFF', '#202835']
+											];
+										for (var i = 1; i <=6 ; i++) {
+											var child = document.getElementById('circles-' + i),
+												percentage = 50 + (i * 10);
+												
+											Circles.create({
+												id:         child.id,
+												percentage: percentage,
+												radius:     100,
+												width:      8,
+												number:   	percentage / 10,
+												text:       '%',
+												colors:     colors[i - 1]
+											});
+										}
+								
+						</script>
+					<!--/-->
+				</div>	
+		</div>
+	</div>
+</div>
+<!--<div class="skills-bottom">
+	<div class="container">
+		<div class="skills-bottom-info">
+			<p>The design of each element should be thought out 
+				in order to be easy to make and easy to repair.</p>
+	</div>
+	<div class="clearfix"> </div>
+</div>
+</div>-->
+<!--/skills-->
+<!--price-->
+<!--<div class="price-top">
+	<div class="container">
+		<div class="price-top-info">
+			<div class="col-md-3 price-slid">
+				<img src="images/c1.png" />
+			</div>
+			<div class="col-md-3 price-slid">
+				<img src="images/c2.png" />
+			</div>
+			<div class="col-md-3 price-slid">
+				<img src="images/c3.png" />
+			</div>
+			<div class="col-md-3 price-slid">
+				<img src="images/c6.png" />
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<div id="price" class="price">
+	<div class="prices">
+		<h3>OUR PRICE</h3>
+	</div>
+	<div class="container">
+		<div class="price-info">
+			<p>What is design? It's where you stand with a foot in two worlds - the world of technology and the world of people and 
+				human purposes - and you try to bring the two together.</p>
+		</div>
+		<div class="price-tags">
+			<div class="price-column">
+				<div class="price-col-top">
+					<h4>Web Design</h4>
+					<h5>start from:</h5>
+					<h3>199$</h3>
+					</div>
+					<div class="price-col-bottom">
+						<ul class="pr-list">
+							<li>Clean Code</li>
+							<li>HTML5&CSS3 Valid</li>
+							<li>Modern Design</li>
+							<li>Fully Animated</li>
+							<li>PHP Form</li>
+						</ul>
+						<a href="#">Buy</a>
+					</div>
+				
+				<div class="clearfix"> </div>
+			</div>
+			<div class="price-column">
+				<div class="price-col-top">
+					<h4>Web Design</h4>
+					<h5>start from:</h5>
+					<h3>180$</h3>
+					</div>
+					<div class="price-col-bottom">
+						<ul class="pr-list">
+							<li>Clean Code</li>
+							<li>HTML5&CSS3 Valid</li>
+							<li>Modern Design</li>
+							<li>Fully Animated</li>
+							<li>PHP Form</li>
+						</ul>
+						<a href="#">Buy</a>
+					</div>
+				
+				<div class="clearfix"> </div>
+			</div>
+			<div class="price-column">
+				<div class="price-col-top">
+					<h4>Web Design</h4>
+					<h5>start from:</h5>
+					<h3>175$</h3>
+					</div>
+					<div class="price-col-bottom">
+						<ul class="pr-list">
+							<li>Clean Code</li>
+							<li>HTML5&CSS3 Valid</li>
+							<li>Modern Design</li>
+							<li>Fully Animated</li>
+							<li>PHP Form</li>
+						</ul>
+						<a href="#">Buy</a>
+					</div>
+				
+				<div class="clearfix"> </div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>-->
+<!--/price-->
+<!--/Content-End-Here-->
+<!--contcct-us-->
+<div id="Contact" class="contact-us">
+	<div class="container">
+		<div class="contact-us-info">
+			<h3>Quick Contact</h3>
+			<p><span>Contact</span> Us ,If you have any enquiry please drop your email id</p>
+				<div class="contact-us-info-bottom">
+					<form>
+							<input type="text" class="text" value="Your Mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your Mail';}">
+							<input type="submit" value="Submit">
+						</form>
+				</div>
+		</div>
+	</div>
+</div>
+<div class="contact">
+		<div class="map">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d62617.29542760284!2d75.76016498262047!3d11.218607650205376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3ba6599b34e7080b%3A0x1a598b39c3b6d5fb!2sSaakhi+Web+App+Solutions+Pvt+Ltd%2C+India!3m2!1d11.2185255!2d75.7951847!5e0!3m2!1sen!2s!4v1473843719597" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<div class="col-md-6 contact-info">
+				<h4>Address</h4>
+				<ul>
+                     <li>Saakhi Web App Solutions Pvt Ltd</li>
+					<li>"Rakhi" Behind hindi training College</li>
+					<li>Calicut-3</li>
+					<li>Kerala</li>
+					<li>Email:<a href="">info@saakhiwebapp.com</a></li>
+				</ul>
+				<!--<div class="contact-info-bottom">
+					<h5>Follow Us:</h5>
+				</div>-->
+				<div class="contact-icons">
+					<!--<span class="icon1"><a href="https://www.facebook.com/saakhiwebappsolutions/" </a></span>-->
+					<!--<span class="icon2"> </span>-->
+					<!--<span class="icon3"> </span>-->
+					<!--<span class="icon4"><a href="https://www.facebook.com/saakhiwebappsolutions/" </a> </span>-->
+					<!--<span class="icon5"> </span>-->
+					<!--<span class="icon6"> </span>-->	
+					<div class="clearfix"> </div>												
+				</div>
+			</div>
+		</div>
+</div>
+<!--/contact-us-->
+<!--footer-->
+<div class="footer">
+	<div class="container">
+		<div class="footer-info">
+			<a href="#home"><img src="images/Saakhi logo Option 3.jpg"></a>
+		</div>
+		<div class="copy-rights">
+			<p>Powered by<a href="http://www.saakhiwebapp.com/"> Saakhi Web App Solutions Pvt Ltd</a></p>
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+</div>
+<!--/footer-->
+	</body>
+</html>
